@@ -1,6 +1,723 @@
 {
-    "last_updated_utc": "2026-09-10T03:53:17.856694+00:00",
-    "live": [],
-    "upcoming": [],
-    "finished": []
+    "last_updated_utc": "2026-09-10T04:08:00.149528+00:00",
+    "live": [
+        {
+            "id": "3405",
+            "title": "UEFA Youth League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3402",
+            "title": "UEFA Youth League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3423",
+            "title": "UEFA Youth League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3443",
+            "title": "MLS",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3444",
+            "title": "MLS",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3449",
+            "title": "MLS",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3453",
+            "title": "MLS",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3454",
+            "title": "MLS",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        },
+        {
+            "id": "3409",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "live"
+        }
+    ],
+    "upcoming": [
+        {
+            "id": "6a3ecef70098d4b993eb6b97",
+            "title": " vs ",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": ""
+        },
+        {
+            "id": "3466",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3447",
+            "title": "UEFA Youth League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3048",
+            "title": "European T20 Premier League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3450",
+            "title": "UEFA Youth League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3442",
+            "title": "UEFA Youth League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3458",
+            "title": "UEFA Youth League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3015",
+            "title": "Womens Asia Cup",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "171",
+            "title": "MotoGP",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "213",
+            "title": "Friday Night SmackDown",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3475",
+            "title": "One Day International U19",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "3225",
+            "title": "T20 International",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "73",
+            "title": "Monday Night RAW",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "72",
+            "title": "WWE NXT",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "upcoming"
+        },
+        {
+            "id": "N/A",
+            "title": " vs ",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": ""
+        },
+        {
+            "id": "N/A",
+            "title": " vs ",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": ""
+        }
+    ],
+    "finished": [
+        {
+            "id": "3445",
+            "title": "MLS",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3457",
+            "title": "CONMEBOL Libertadores",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3474",
+            "title": "NFL",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "74",
+            "title": "AEW Dynamite",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3461",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3462",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3471",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3473",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3472",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "2668",
+            "title": "Caribbean Premier League T20",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3465",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3468",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3469",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3467",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3452",
+            "title": "CONMEBOL Sudamericana",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3456",
+            "title": "CONMEBOL Libertadores",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3463",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3464",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3448",
+            "title": "Liga Portugal Betclic",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3470",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3459",
+            "title": "MLB",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3436",
+            "title": "UEFA Champions League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3437",
+            "title": "UEFA Champions League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3438",
+            "title": "UEFA Champions League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3439",
+            "title": "UEFA Champions League",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        },
+        {
+            "id": "3446",
+            "title": "Championship",
+            "home_team": {
+                "name": "Home",
+                "logo": ""
+            },
+            "away_team": {
+                "name": "Away",
+                "logo": ""
+            },
+            "stream_url": "https://footfytv.pro/",
+            "status": "finish"
+        }
+    ]
 }
