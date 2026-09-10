@@ -2,12 +2,11 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime, timezone
 import re
 
-# Target URL
 TARGET_URL = "https://footfytv.pro/"
 
-# Custom Headers to bypass basic bot blocking
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
@@ -15,47 +14,32 @@ HEADERS = {
 }
 
 def fetch_matches():
-    try:
-        response = requests.get(TARGET_URL, headers=HEADERS, timeout=15)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"Error fetching website: {e}")
-        return None
+    # Python-এর নিজস্ব বিল্ট-ইন UTC সময় ব্যবহার করা হয়েছে
+    current_utc_time = datetime.now(timezone.utc).isoformat()
 
-    soup = BeautifulSoup(response.text, "html.parser")
-    
     matches_data = {
-        "last_updated_utc": requests.get("http://worldtimeapi.org/api/timezone/Etc/UTC").json().get("datetime", ""),
+        "last_updated_utc": current_utc_time,
         "live": [],
         "upcoming": [],
         "finished": []
     }
 
-    # Note: DOM Structure Selector Adjustment
-    # footfytv-এর কার্ড স্ট্রাকচার অনুযায়ী Selector দিন (সাধারণত class name .match-item / .match-card হয়)
-    match_cards = soup.select(".match-item, .match-card, div[data-match-id]") 
+    try:
+        response = requests.get(TARGET_URL, headers=HEADERS, timeout=15)
+        response.raise_for_status()
+    except Exception as e:
+        print(f"Error fetching target website: {e}")
+        return matches_data
 
-    # যদি সাধারণ HTML কার্ড না পাওয়া যায় (যদি ডাইনামিক Script ტ্যাগে থাকে)
-    if not match_cards:
-        # Fallback: Script Tag extraction logic for React/Next.js Data
-        scripts = soup.find_all("script")
-        for script in scripts:
-            if script.string and "matches" in script.string:
-                try:
-                    # Extracts embedded JSON data if present
-                    json_str = re.search(r'JSON\.parse\((.*?)\)', script.string)
-                    if json_str:
-                        raw_json = json.loads(json_str.group(1))
-                        # Process raw_json if structured
-                except Exception as ex:
-                    pass
+    soup = BeautifulSoup(response.text, "html.parser")
+    
+    match_cards = soup.select(".match-item, .match-card, div[data-match-id]") 
 
     for card in match_cards:
         try:
             match_id = card.get("data-match-id") or card.get("id") or "N/A"
-            status = card.get("data-status", "").lower() # live, upcoming, ended/finished
+            status = card.get("data-status", "").lower()
             
-            # Extract Team Names & Logos
             home_team_el = card.select_one(".home-team, .team-home")
             away_team_el = card.select_one(".away-team, .team-away")
             
@@ -65,7 +49,6 @@ def fetch_matches():
             home_logo = home_team_el.find("img")["src"] if home_team_el and home_team_el.find("img") else ""
             away_logo = away_team_el.find("img")["src"] if away_team_el and away_team_el.find("img") else ""
 
-            # Extract Streaming Link
             stream_link_el = card.find("a", href=True)
             stream_url = stream_link_el["href"] if stream_link_el else ""
             if stream_url and not stream_url.startswith("http"):
@@ -88,7 +71,7 @@ def fetch_matches():
 
             if "live" in status:
                 matches_data["live"].append(match_info)
-            elif "finish" in status or "ended" in status or "ended" in status:
+            elif "finish" in status or "ended" in status:
                 matches_data["finished"].append(match_info)
             else:
                 matches_data["upcoming"].append(match_info)
@@ -101,7 +84,7 @@ def fetch_matches():
 
 def save_json(data):
     if not data:
-        print("No data extracted.")
+        print("No data to save.")
         return
     
     filename = "matches.json"
