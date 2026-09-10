@@ -1,4 +1,4 @@
-name: FootfyTV Advanced Live Scraper
+name: FootfyTV Category-Wise Scraper
 
 on:
   schedule:
@@ -23,11 +23,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install playwright beautifulsoup4
 
-    - name: Install Playwright Chromium Browser
+    - name: Install Playwright Chromium with System Dependencies
       run: |
         python -m playwright install chromium --with-deps
 
-    - name: Run Advanced Scraper
+    - name: Run Scraper Script
       run: python scraper.py
 
     - name: Commit and Push Updated matches.json
@@ -35,4 +35,4 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add matches.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update matches.json [skip ci]" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update category matches [skip ci]" && git push)
