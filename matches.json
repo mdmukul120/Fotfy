@@ -1,27 +1,11 @@
 {
-    "last_updated_utc": "2026-09-10T04:27:03.077241+00:00",
+    "last_updated_utc": "2026-09-10T04:45:56.868943+00:00",
     "categories": {
-        "General": [
-            {
-                "id": "app",
-                "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
-                "category": "General",
-                "home_team": {
-                    "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-                },
-                "away_team": {
-                    "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-                },
-                "match_page_url": "https://footfytv.pro/",
-                "stream_m3u8_url": "https://footfytv.pro/",
-                "status": "live"
-            }
-        ],
-        "Home": [
+        "General Sports": [
             {
                 "id": "live",
                 "title": "Live",
-                "category": "Home",
+                "category": "General Sports",
                 "home_team": {
                     "logo": ""
                 },
@@ -29,13 +13,18 @@
                     "logo": ""
                 },
                 "match_page_url": "https://footfytv.pro/live",
-                "stream_m3u8_url": "https://footfytv.pro/live",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/live"
+                    }
+                ],
                 "status": "live"
             },
             {
                 "id": "channels",
                 "title": "All Channels",
-                "category": "Home",
+                "category": "General Sports",
                 "home_team": {
                     "logo": ""
                 },
@@ -43,13 +32,18 @@
                     "logo": ""
                 },
                 "match_page_url": "https://footfytv.pro/channels",
-                "stream_m3u8_url": "https://footfytv.pro/channels",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/channels"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "leagues",
                 "title": "Leagues",
-                "category": "Home",
+                "category": "General Sports",
                 "home_team": {
                     "logo": ""
                 },
@@ -57,13 +51,18 @@
                     "logo": ""
                 },
                 "match_page_url": "https://footfytv.pro/leagues",
-                "stream_m3u8_url": "https://footfytv.pro/leagues",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/leagues"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "download-app",
                 "title": "Download App",
-                "category": "Home",
+                "category": "General Sports",
                 "home_team": {
                     "logo": ""
                 },
@@ -71,13 +70,18 @@
                     "logo": ""
                 },
                 "match_page_url": "https://footfytv.pro/download-app",
-                "stream_m3u8_url": "https://footfytv.pro/download-app",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/download-app"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "3443",
-                "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
-                "category": "Home",
+                "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 02:43:53 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:33:53 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:13:53 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:13:53 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:13:53 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 09:43:53 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
+                "category": "General Sports",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/22007/image"
                 },
@@ -85,7 +89,12 @@
                     "logo": "https://img.sofascore.com/api/v1/team/407803/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3443",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3443",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3443"
+                    }
+                ],
                 "status": "live"
             }
         ],
@@ -101,7 +110,24 @@
                     "logo": "https://img.sofascore.com/api/v1/team/2513/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3444",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-vancouver-whitecaps-vs-la-galaxy%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-vancouver-whitecaps-vs-la-galaxy%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQQQQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQQQQ.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 4",
+                        "stream_url": "https://footfytv.pro/watch/3444"
+                    }
+                ],
                 "status": "live"
             },
             {
@@ -115,7 +141,28 @@
                     "logo": "https://img.sofascore.com/api/v1/team/21825/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3449",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-san-diego-fc-vs-san-jose-earthquakes%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-san-diego-fc-vs-san-jose-earthquakes%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQQQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-hls%2Fchannel%2Fmls%2F2026-09-09%2Fsd-sj%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st"
+                    },
+                    {
+                        "server_name": "Server 4 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-hls%2Fchannel%2Fmls%2F2026-09-09%2Fsd-sj%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&amp;Referer=https%3A%2F%2Fondemand.st"
+                    },
+                    {
+                        "server_name": "Server 5",
+                        "stream_url": "https://footfytv.pro/watch/3449"
+                    }
+                ],
                 "status": "live"
             },
             {
@@ -129,7 +176,12 @@
                     "logo": "https://img.sofascore.com/api/v1/team/2509/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3453",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3453",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3453"
+                    }
+                ],
                 "status": "live"
             },
             {
@@ -143,7 +195,20 @@
                     "logo": "https://img.sofascore.com/api/v1/team/2506/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3454",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3454"
+                    }
+                ],
                 "status": "live"
             },
             {
@@ -157,12 +222,25 @@
                     "logo": "https://img.sofascore.com/api/v1/team/3633/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3466",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3466"
+                    }
+                ],
                 "status": "live"
             },
             {
                 "id": "3447",
-                "title": "Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
+                "title": "Starts In 02:43:53 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
                 "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/90128/image"
@@ -171,12 +249,21 @@
                     "logo": "https://img.sofascore.com/api/v1/team/197177/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3447",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3447",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2",
+                        "stream_url": "https://footfytv.pro/watch/3447"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "3048",
-                "title": "Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6",
+                "title": "Starts In 04:33:53 Cricket European T20 VS European T20 European T20 Premier League 6",
                 "category": "LIVE",
                 "home_team": {
                     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
@@ -185,12 +272,17 @@
                     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3048",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3048",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3048"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "3450",
-                "title": "Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
+                "title": "Starts In 06:13:53 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
                 "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/243800/image"
@@ -199,12 +291,17 @@
                     "logo": "https://img.sofascore.com/api/v1/team/826818/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3450",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3450",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3450"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "3442",
-                "title": "Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
+                "title": "Starts In 07:13:53 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
                 "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/90140/image"
@@ -213,12 +310,17 @@
                     "logo": "https://img.sofascore.com/api/v1/team/107723/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3442",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3442",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3442"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "3458",
-                "title": "Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
+                "title": "Starts In 07:13:53 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
                 "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/44163/image"
@@ -227,12 +329,17 @@
                     "logo": "https://img.sofascore.com/api/v1/team/296210/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3458",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3458",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3458"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
                 "id": "3015",
-                "title": "Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9",
+                "title": "Starts In 09:43:53 Cricket BAN-W VS IND-W Womens Asia Cup 9",
                 "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/187809/image"
@@ -241,7 +348,12 @@
                     "logo": "https://img.sofascore.com/api/v1/team/187765/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3015",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3015",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3015"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
@@ -255,7 +367,12 @@
                     "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
                 },
                 "match_page_url": "https://footfytv.pro/watch/171",
-                "stream_m3u8_url": "https://footfytv.pro/watch/171",
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/171"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
@@ -269,7 +386,40 @@
                     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
                 },
                 "match_page_url": "https://footfytv.pro/watch/213",
-                "stream_m3u8_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fraw.githubusercontent.com%2Fathenapanda26%2Fhls%2Frefs%2Fheads%2Fmain%2Fsmack.m3u8"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fubuntu.fromthyheart.site%2Fdailymotion%2Flive%2Fplaylist%2F6.m3u8"
+                    },
+                    {
+                        "server_name": "Server 4 (Direct M3U8)",
+                        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+                    },
+                    {
+                        "server_name": "Server 5 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F54963%2Fload-playlist%3F%26.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net"
+                    },
+                    {
+                        "server_name": "Server 6 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.41%2Fhls%2FUIIIAAA.m3u8%3F&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 7 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.41%2Fhls%2FUIIIAAA.m3u8%3F&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F&amp;Origin=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 8",
+                        "stream_url": "https://footfytv.pro/watch/213"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
@@ -283,7 +433,20 @@
                     "logo": "https://img.sofascore.com/api/v1/team/213104/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3475",
-                "stream_m3u8_url": "http://51.77.217.114:8089/PAKvENGU19/index.m3u8",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "http://51.77.217.114:8089/PAKvENGU19/index.m3u8"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F51.77.217.114%3A8089%2FPAKvENGU19%2Findex.m3u8"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3475"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
@@ -297,7 +460,20 @@
                     "logo": "https://img.sofascore.com/api/v1/team/187765/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3225",
-                "stream_m3u8_url": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Ffallback-video.ivan-fluxo.workers.dev%2Fvideo%2Findex.m3u8"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3225"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
@@ -311,7 +487,32 @@
                     "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
                 },
                 "match_page_url": "https://footfytv.pro/watch/73",
-                "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
+                    },
+                    {
+                        "server_name": "Server 4 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FOLLLAAAAQQQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 5 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FOLLLAAAAQQQ.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 6",
+                        "stream_url": "https://footfytv.pro/watch/73"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
@@ -325,7 +526,24 @@
                     "logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
                 },
                 "match_page_url": "https://footfytv.pro/watch/72",
-                "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.192%2Fhls%2FAFFFFXAAAAA.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.192%2Fhls%2FAFFFFXAAAAA.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 4",
+                        "stream_url": "https://footfytv.pro/watch/72"
+                    }
+                ],
                 "status": "upcoming"
             },
             {
@@ -339,8 +557,25 @@
                     "logo": "https://img.sofascore.com/api/v1/team/337602/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3445",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F56152%2Fload-playlist.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F56152%2Fload-playlist.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FCIIIAAAA.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FCIIIAAAA.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                    },
+                    {
+                        "server_name": "Server 4",
+                        "stream_url": "https://footfytv.pro/watch/3445"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3457",
@@ -353,8 +588,13 @@
                     "logo": "https://img.sofascore.com/api/v1/team/1957/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3457",
-                "stream_m3u8_url": "https://footfytv.pro/watch/3457",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/3457"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3474",
@@ -367,8 +607,21 @@
                     "logo": "https://img.sofascore.com/api/v1/team/4424/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3474",
-                "stream_m3u8_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Ftmaxapp.site%2F8wirwjs76erftg%2Fskysportsmainevent005adsf.m3u8"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3474"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "74",
@@ -381,8 +634,13 @@
                     "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
                 },
                 "match_page_url": "https://footfytv.pro/watch/74",
-                "stream_m3u8_url": "https://footfytv.pro/watch/74",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1",
+                        "stream_url": "https://footfytv.pro/watch/74"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3461",
@@ -395,8 +653,21 @@
                     "logo": "https://img.sofascore.com/api/v1/team/3627/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3461",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3461"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3462",
@@ -409,8 +680,25 @@
                     "logo": "https://img.sofascore.com/api/v1/team/3637/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3462",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 4",
+                        "stream_url": "https://footfytv.pro/watch/3462"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3471",
@@ -423,8 +711,25 @@
                     "logo": "https://img.sofascore.com/api/v1/team/3640/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3471",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 4",
+                        "stream_url": "https://footfytv.pro/watch/3471"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3473",
@@ -437,8 +742,25 @@
                     "logo": "https://img.sofascore.com/api/v1/team/3653/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3473",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 4",
+                        "stream_url": "https://footfytv.pro/watch/3473"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3472",
@@ -451,8 +773,21 @@
                     "logo": "https://img.sofascore.com/api/v1/team/3628/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3472",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3472"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "2668",
@@ -465,8 +800,17 @@
                     "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
                 },
                 "match_page_url": "https://footfytv.pro/watch/2668",
-                "stream_m3u8_url": "https://footfytv.pro/watch/2668",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2",
+                        "stream_url": "https://footfytv.pro/watch/2668"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3465",
@@ -479,8 +823,21 @@
                     "logo": "https://img.sofascore.com/api/v1/team/5929/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3465",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3465"
+                    }
+                ],
+                "status": "finished"
             },
             {
                 "id": "3468",
@@ -493,30 +850,29 @@
                     "logo": "https://img.sofascore.com/api/v1/team/3655/image"
                 },
                 "match_page_url": "https://footfytv.pro/watch/3468",
-                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-                "status": "upcoming"
+                "servers": [
+                    {
+                        "server_name": "Server 1 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 2 (Direct M3U8)",
+                        "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                    },
+                    {
+                        "server_name": "Server 3",
+                        "stream_url": "https://footfytv.pro/watch/3468"
+                    }
+                ],
+                "status": "finished"
             }
         ]
     },
     "live": [
         {
-            "id": "app",
-            "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
-            "category": "General",
-            "home_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "away_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-            },
-            "match_page_url": "https://footfytv.pro/",
-            "stream_m3u8_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
             "id": "live",
             "title": "Live",
-            "category": "Home",
+            "category": "General Sports",
             "home_team": {
                 "logo": ""
             },
@@ -524,13 +880,18 @@
                 "logo": ""
             },
             "match_page_url": "https://footfytv.pro/live",
-            "stream_m3u8_url": "https://footfytv.pro/live",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/live"
+                }
+            ],
             "status": "live"
         },
         {
             "id": "3443",
-            "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
-            "category": "Home",
+            "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 02:43:53 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:33:53 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:13:53 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:13:53 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:13:53 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 09:43:53 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
+            "category": "General Sports",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/22007/image"
             },
@@ -538,7 +899,12 @@
                 "logo": "https://img.sofascore.com/api/v1/team/407803/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3443",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3443",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3443"
+                }
+            ],
             "status": "live"
         },
         {
@@ -552,7 +918,24 @@
                 "logo": "https://img.sofascore.com/api/v1/team/2513/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3444",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-vancouver-whitecaps-vs-la-galaxy%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-vancouver-whitecaps-vs-la-galaxy%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQQQQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQQQQ.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 4",
+                    "stream_url": "https://footfytv.pro/watch/3444"
+                }
+            ],
             "status": "live"
         },
         {
@@ -566,7 +949,28 @@
                 "logo": "https://img.sofascore.com/api/v1/team/21825/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3449",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-san-diego-fc-vs-san-jose-earthquakes%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-san-diego-fc-vs-san-jose-earthquakes%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQQQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-hls%2Fchannel%2Fmls%2F2026-09-09%2Fsd-sj%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st"
+                },
+                {
+                    "server_name": "Server 4 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-hls%2Fchannel%2Fmls%2F2026-09-09%2Fsd-sj%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&amp;Referer=https%3A%2F%2Fondemand.st"
+                },
+                {
+                    "server_name": "Server 5",
+                    "stream_url": "https://footfytv.pro/watch/3449"
+                }
+            ],
             "status": "live"
         },
         {
@@ -580,7 +984,12 @@
                 "logo": "https://img.sofascore.com/api/v1/team/2509/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3453",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3453",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3453"
+                }
+            ],
             "status": "live"
         },
         {
@@ -594,7 +1003,20 @@
                 "logo": "https://img.sofascore.com/api/v1/team/2506/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3454",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3454"
+                }
+            ],
             "status": "live"
         },
         {
@@ -608,7 +1030,20 @@
                 "logo": "https://img.sofascore.com/api/v1/team/3633/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3466",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3466"
+                }
+            ],
             "status": "live"
         }
     ],
@@ -616,7 +1051,7 @@
         {
             "id": "channels",
             "title": "All Channels",
-            "category": "Home",
+            "category": "General Sports",
             "home_team": {
                 "logo": ""
             },
@@ -624,13 +1059,18 @@
                 "logo": ""
             },
             "match_page_url": "https://footfytv.pro/channels",
-            "stream_m3u8_url": "https://footfytv.pro/channels",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/channels"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "leagues",
             "title": "Leagues",
-            "category": "Home",
+            "category": "General Sports",
             "home_team": {
                 "logo": ""
             },
@@ -638,13 +1078,18 @@
                 "logo": ""
             },
             "match_page_url": "https://footfytv.pro/leagues",
-            "stream_m3u8_url": "https://footfytv.pro/leagues",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/leagues"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "download-app",
             "title": "Download App",
-            "category": "Home",
+            "category": "General Sports",
             "home_team": {
                 "logo": ""
             },
@@ -652,12 +1097,17 @@
                 "logo": ""
             },
             "match_page_url": "https://footfytv.pro/download-app",
-            "stream_m3u8_url": "https://footfytv.pro/download-app",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/download-app"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "3447",
-            "title": "Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
+            "title": "Starts In 02:43:53 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
             "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/90128/image"
@@ -666,12 +1116,21 @@
                 "logo": "https://img.sofascore.com/api/v1/team/197177/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3447",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3447",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2",
+                    "stream_url": "https://footfytv.pro/watch/3447"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "3048",
-            "title": "Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6",
+            "title": "Starts In 04:33:53 Cricket European T20 VS European T20 European T20 Premier League 6",
             "category": "LIVE",
             "home_team": {
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
@@ -680,12 +1139,17 @@
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
             },
             "match_page_url": "https://footfytv.pro/watch/3048",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3048",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3048"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "3450",
-            "title": "Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
+            "title": "Starts In 06:13:53 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
             "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/243800/image"
@@ -694,12 +1158,17 @@
                 "logo": "https://img.sofascore.com/api/v1/team/826818/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3450",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3450",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3450"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "3442",
-            "title": "Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
+            "title": "Starts In 07:13:53 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
             "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/90140/image"
@@ -708,12 +1177,17 @@
                 "logo": "https://img.sofascore.com/api/v1/team/107723/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3442",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3442",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3442"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "3458",
-            "title": "Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
+            "title": "Starts In 07:13:53 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
             "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/44163/image"
@@ -722,12 +1196,17 @@
                 "logo": "https://img.sofascore.com/api/v1/team/296210/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3458",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3458",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3458"
+                }
+            ],
             "status": "upcoming"
         },
         {
             "id": "3015",
-            "title": "Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9",
+            "title": "Starts In 09:43:53 Cricket BAN-W VS IND-W Womens Asia Cup 9",
             "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/187809/image"
@@ -736,7 +1215,12 @@
                 "logo": "https://img.sofascore.com/api/v1/team/187765/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3015",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3015",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3015"
+                }
+            ],
             "status": "upcoming"
         },
         {
@@ -750,7 +1234,12 @@
                 "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
             },
             "match_page_url": "https://footfytv.pro/watch/171",
-            "stream_m3u8_url": "https://footfytv.pro/watch/171",
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/171"
+                }
+            ],
             "status": "upcoming"
         },
         {
@@ -764,7 +1253,40 @@
                 "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
             },
             "match_page_url": "https://footfytv.pro/watch/213",
-            "stream_m3u8_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fraw.githubusercontent.com%2Fathenapanda26%2Fhls%2Frefs%2Fheads%2Fmain%2Fsmack.m3u8"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fubuntu.fromthyheart.site%2Fdailymotion%2Flive%2Fplaylist%2F6.m3u8"
+                },
+                {
+                    "server_name": "Server 4 (Direct M3U8)",
+                    "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+                },
+                {
+                    "server_name": "Server 5 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F54963%2Fload-playlist%3F%26.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net"
+                },
+                {
+                    "server_name": "Server 6 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.41%2Fhls%2FUIIIAAA.m3u8%3F&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 7 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.41%2Fhls%2FUIIIAAA.m3u8%3F&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F&amp;Origin=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 8",
+                    "stream_url": "https://footfytv.pro/watch/213"
+                }
+            ],
             "status": "upcoming"
         },
         {
@@ -778,7 +1300,20 @@
                 "logo": "https://img.sofascore.com/api/v1/team/213104/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3475",
-            "stream_m3u8_url": "http://51.77.217.114:8089/PAKvENGU19/index.m3u8",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "http://51.77.217.114:8089/PAKvENGU19/index.m3u8"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F51.77.217.114%3A8089%2FPAKvENGU19%2Findex.m3u8"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3475"
+                }
+            ],
             "status": "upcoming"
         },
         {
@@ -792,7 +1327,20 @@
                 "logo": "https://img.sofascore.com/api/v1/team/187765/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3225",
-            "stream_m3u8_url": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Ffallback-video.ivan-fluxo.workers.dev%2Fvideo%2Findex.m3u8"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3225"
+                }
+            ],
             "status": "upcoming"
         },
         {
@@ -806,7 +1354,32 @@
                 "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
             },
             "match_page_url": "https://footfytv.pro/watch/73",
-            "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
+                },
+                {
+                    "server_name": "Server 4 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FOLLLAAAAQQQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 5 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FOLLLAAAAQQQ.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 6",
+                    "stream_url": "https://footfytv.pro/watch/73"
+                }
+            ],
             "status": "upcoming"
         },
         {
@@ -820,9 +1393,28 @@
                 "logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
             },
             "match_page_url": "https://footfytv.pro/watch/72",
-            "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.192%2Fhls%2FAFFFFXAAAAA.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.192%2Fhls%2FAFFFFXAAAAA.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 4",
+                    "stream_url": "https://footfytv.pro/watch/72"
+                }
+            ],
             "status": "upcoming"
-        },
+        }
+    ],
+    "finished": [
         {
             "id": "3445",
             "title": "FINISHED Football Chicago VS Inter Miami MLS 3",
@@ -834,8 +1426,25 @@
                 "logo": "https://img.sofascore.com/api/v1/team/337602/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3445",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F56152%2Fload-playlist.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F56152%2Fload-playlist.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FCIIIAAAA.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FCIIIAAAA.m3u8&amp;Referer=http%3A%2F%2Fwww.fawanews.sc%2F"
+                },
+                {
+                    "server_name": "Server 4",
+                    "stream_url": "https://footfytv.pro/watch/3445"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3457",
@@ -848,8 +1457,13 @@
                 "logo": "https://img.sofascore.com/api/v1/team/1957/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3457",
-            "stream_m3u8_url": "https://footfytv.pro/watch/3457",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/3457"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3474",
@@ -862,8 +1476,21 @@
                 "logo": "https://img.sofascore.com/api/v1/team/4424/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3474",
-            "stream_m3u8_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Ftmaxapp.site%2F8wirwjs76erftg%2Fskysportsmainevent005adsf.m3u8"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3474"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "74",
@@ -876,8 +1503,13 @@
                 "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
             },
             "match_page_url": "https://footfytv.pro/watch/74",
-            "stream_m3u8_url": "https://footfytv.pro/watch/74",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1",
+                    "stream_url": "https://footfytv.pro/watch/74"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3461",
@@ -890,8 +1522,21 @@
                 "logo": "https://img.sofascore.com/api/v1/team/3627/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3461",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3461"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3462",
@@ -904,8 +1549,25 @@
                 "logo": "https://img.sofascore.com/api/v1/team/3637/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3462",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 4",
+                    "stream_url": "https://footfytv.pro/watch/3462"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3471",
@@ -918,8 +1580,25 @@
                 "logo": "https://img.sofascore.com/api/v1/team/3640/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3471",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 4",
+                    "stream_url": "https://footfytv.pro/watch/3471"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3473",
@@ -932,8 +1611,25 @@
                 "logo": "https://img.sofascore.com/api/v1/team/3653/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3473",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 4",
+                    "stream_url": "https://footfytv.pro/watch/3473"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3472",
@@ -946,8 +1642,21 @@
                 "logo": "https://img.sofascore.com/api/v1/team/3628/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3472",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3472"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "2668",
@@ -960,8 +1669,17 @@
                 "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
             },
             "match_page_url": "https://footfytv.pro/watch/2668",
-            "stream_m3u8_url": "https://footfytv.pro/watch/2668",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2",
+                    "stream_url": "https://footfytv.pro/watch/2668"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3465",
@@ -974,8 +1692,21 @@
                 "logo": "https://img.sofascore.com/api/v1/team/5929/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3465",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3465"
+                }
+            ],
+            "status": "finished"
         },
         {
             "id": "3468",
@@ -988,9 +1719,21 @@
                 "logo": "https://img.sofascore.com/api/v1/team/3655/image"
             },
             "match_page_url": "https://footfytv.pro/watch/3468",
-            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
-            "status": "upcoming"
+            "servers": [
+                {
+                    "server_name": "Server 1 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 2 (Direct M3U8)",
+                    "stream_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&amp;Referer=https%3A%2F%2Fstreamscenter.online%2F&amp;Origin=https%3A%2F%2Fstreamscenter.online"
+                },
+                {
+                    "server_name": "Server 3",
+                    "stream_url": "https://footfytv.pro/watch/3468"
+                }
+            ],
+            "status": "finished"
         }
-    ],
-    "finished": []
+    ]
 }
