@@ -1,22 +1,15 @@
 import os
 import json
-import requests
-from bs4 import BeautifulSoup
+import asyncio
 from datetime import datetime, timezone
-import re
+from bs4 import BeautifulSoup
+from playwright.async_api import async_playwright
 
 TARGET_URL = "https://footfytv.pro/"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://footfytv.pro/",
-}
-
-def fetch_matches():
-    # Python-এর নিজস্ব বিল্ট-ইন UTC সময় ব্যবহার করা হয়েছে
+async def fetch_matches():
     current_utc_time = datetime.now(timezone.utc).isoformat()
-
+    
     matches_data = {
         "last_updated_utc": current_utc_time,
         "live": [],
@@ -24,74 +17,85 @@ def fetch_matches():
         "finished": []
     }
 
-    try:
-        response = requests.get(TARGET_URL, headers=HEADERS, timeout=15)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"Error fetching target website: {e}")
-        return matches_data
+    async with async_playwright() as p:
+        # Chromium Headless Browser চালু করা হচ্ছে Anti-Bot bypassing সহ
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            viewport={'width': 1280, 'height': 720}
+        )
+        page = await context.new_page()
 
-    soup = BeautifulSoup(response.text, "html.parser")
-    
-    match_cards = soup.select(".match-item, .match-card, div[data-match-id]") 
-
-    for card in match_cards:
         try:
-            match_id = card.get("data-match-id") or card.get("id") or "N/A"
-            status = card.get("data-status", "").lower()
+            print("Loading page via Playwright...")
+            await page.goto(TARGET_URL, wait_until="networkidle", timeout=30000)
             
-            home_team_el = card.select_one(".home-team, .team-home")
-            away_team_el = card.select_one(".away-team, .team-away")
-            
-            home_name = home_team_el.text.strip() if home_team_el else "Unknown"
-            away_name = away_team_el.text.strip() if away_team_el else "Unknown"
-            
-            home_logo = home_team_el.find("img")["src"] if home_team_el and home_team_el.find("img") else ""
-            away_logo = away_team_el.find("img")["src"] if away_team_el and away_team_el.find("img") else ""
+            # JavaScript রেন্ডার সম্পূর্ণ হওয়ার জন্য ৫ সেকেন্ড অপেক্ষা
+            await page.wait_for_timeout(5000)
 
-            stream_link_el = card.find("a", href=True)
-            stream_url = stream_link_el["href"] if stream_link_el else ""
-            if stream_url and not stream_url.startswith("http"):
-                stream_url = "https://footfytv.pro" + stream_url
+            # পেজের ফুল রেন্ডার্ড HTML সংগ্রহ
+            html_content = await page.content()
+            await browser.close()
 
+        except Exception as e:
+            print(f"Error loading page with Playwright: {e}")
+            await browser.close()
+            return matches_data
+
+    # BeautifulSoup দিয়ে পার্স করা
+    soup = BeautifulSoup(html_content, "html.parser")
+    
+    # ফুটফাই টিভির ম্যাচ ব্লক বা লিংক সিলেক্টর (সামগ্রিক স্ট্রাকচার খোঁজা)
+    cards = soup.select("a[href*='match'], .match-card, .event-item, div[class*='match'], div[class*='event']")
+
+    for card in cards:
+        try:
+            text_content = card.text.strip()
+            if not text_content:
+                continue
+
+            # Stream Link 추출
+            href = card.get("href") or ""
+            if href and not href.startswith("http"):
+                stream_url = "https://footfytv.pro" + href
+            else:
+                stream_url = href
+
+            # Logos 추출
+            imgs = card.find_all("img")
+            home_logo = imgs[0]["src"] if len(imgs) > 0 and imgs[0].has_attr("src") else ""
+            away_logo = imgs[1]["src"] if len(imgs) > 1 and imgs[1].has_attr("src") else ""
+
+            # ID Extraction
+            match_id = card.get("id") or card.get("data-id") or href.split("/")[-1] or "N/A"
+
+            # Match Info Map
             match_info = {
                 "id": match_id,
-                "title": f"{home_name} vs {away_name}",
-                "home_team": {
-                    "name": home_name,
-                    "logo": home_logo
-                },
-                "away_team": {
-                    "name": away_name,
-                    "logo": away_logo
-                },
+                "title": text_content.replace("\n", " "),
+                "home_team": {"name": "Home", "logo": home_logo},
+                "away_team": {"name": "Away", "logo": away_logo},
                 "stream_url": stream_url,
-                "status": status
+                "status": "live" if "live" in text_content.lower() else "upcoming"
             }
 
-            if "live" in status:
+            if "live" in text_content.lower():
                 matches_data["live"].append(match_info)
-            elif "finish" in status or "ended" in status:
+            elif "ended" in text_content.lower() or "ft" in text_content.lower():
                 matches_data["finished"].append(match_info)
             else:
                 matches_data["upcoming"].append(match_info)
 
         except Exception as err:
-            print(f"Error parsing card: {err}")
             continue
 
     return matches_data
 
 def save_json(data):
-    if not data:
-        print("No data to save.")
-        return
-    
-    filename = "matches.json"
-    with open(filename, "w", encoding="utf-8") as f:
+    with open("matches.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
-    print(f"Successfully saved to {filename}")
+    print("matches.json updated successfully!")
 
 if __name__ == "__main__":
-    data = fetch_matches()
+    data = asyncio.run(fetch_matches())
     save_json(data)
