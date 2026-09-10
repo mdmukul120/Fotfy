@@ -23,9 +23,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install playwright beautifulsoup4
 
-    - name: Install Playwright Browsers & System Dependencies
+    - name: Install Playwright Chromium Browser
       run: |
-        npx playwright install --with-deps chromium
+        python -m playwright install chromium --with-deps
 
     - name: Run Advanced Scraper
       run: python scraper.py
