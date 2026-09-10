@@ -1,10 +1,10 @@
 {
-    "last_updated_utc": "2026-09-10T04:19:03.773766+00:00",
+    "last_updated_utc": "2026-09-10T04:27:03.077241+00:00",
     "categories": {
         "General": [
             {
                 "id": "app",
-                "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
+                "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
                 "category": "General",
                 "home_team": {
                     "logo": "https://footfytv.pro/logo/Footfy-Final.png"
@@ -12,472 +12,496 @@
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/22007/image"
                 },
-                "stream_url": "https://footfytv.pro/",
+                "match_page_url": "https://footfytv.pro/",
+                "stream_m3u8_url": "https://footfytv.pro/",
                 "status": "live"
-            },
+            }
+        ],
+        "Home": [
             {
                 "id": "live",
                 "title": "Live",
-                "category": "General",
+                "category": "Home",
                 "home_team": {
                     "logo": ""
                 },
                 "away_team": {
                     "logo": ""
                 },
-                "stream_url": "https://footfytv.pro/live",
+                "match_page_url": "https://footfytv.pro/live",
+                "stream_m3u8_url": "https://footfytv.pro/live",
                 "status": "live"
             },
             {
                 "id": "channels",
                 "title": "All Channels",
-                "category": "General",
+                "category": "Home",
                 "home_team": {
                     "logo": ""
                 },
                 "away_team": {
                     "logo": ""
                 },
-                "stream_url": "https://footfytv.pro/channels",
+                "match_page_url": "https://footfytv.pro/channels",
+                "stream_m3u8_url": "https://footfytv.pro/channels",
                 "status": "upcoming"
             },
             {
                 "id": "leagues",
                 "title": "Leagues",
-                "category": "General",
+                "category": "Home",
                 "home_team": {
                     "logo": ""
                 },
                 "away_team": {
                     "logo": ""
                 },
-                "stream_url": "https://footfytv.pro/leagues",
+                "match_page_url": "https://footfytv.pro/leagues",
+                "stream_m3u8_url": "https://footfytv.pro/leagues",
                 "status": "upcoming"
             },
             {
                 "id": "download-app",
                 "title": "Download App",
-                "category": "General",
+                "category": "Home",
                 "home_team": {
                     "logo": ""
                 },
                 "away_team": {
                     "logo": ""
                 },
-                "stream_url": "https://footfytv.pro/download-app",
+                "match_page_url": "https://footfytv.pro/download-app",
+                "stream_m3u8_url": "https://footfytv.pro/download-app",
                 "status": "upcoming"
-            }
-        ],
-        "Portland": [
-            {
-                "id": "app",
-                "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
-                "category": "Portland",
-                "home_team": {
-                    "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-                },
-                "away_team": {
-                    "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-                },
-                "stream_url": "https://footfytv.pro/",
-                "status": "live"
             },
             {
                 "id": "3443",
-                "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
-                "category": "Portland",
+                "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
+                "category": "Home",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/22007/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/407803/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3443",
+                "match_page_url": "https://footfytv.pro/watch/3443",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3443",
                 "status": "live"
-            },
+            }
+        ],
+        "LIVE": [
             {
                 "id": "3444",
                 "title": "LIVE Football Vancouver VS LA Galaxy MLS 3",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/22010/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/2513/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3444",
+                "match_page_url": "https://footfytv.pro/watch/3444",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-vancouver-whitecaps-vs-la-galaxy%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
                 "status": "live"
             },
             {
                 "id": "3449",
                 "title": "LIVE Football San Diego VS San Jose MLS 3",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/1043961/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/21825/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3449",
+                "match_page_url": "https://footfytv.pro/watch/3449",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-san-diego-fc-vs-san-jose-earthquakes%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
                 "status": "live"
             },
             {
                 "id": "3453",
                 "title": "LIVE Football Seattle VS Kansas City MLS 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/22009/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/2509/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3453",
+                "match_page_url": "https://footfytv.pro/watch/3453",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3453",
                 "status": "live"
             },
             {
                 "id": "3454",
                 "title": "LIVE Football Los Angeles VS NY Red Bulls MLS 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/274650/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/2506/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3454",
+                "match_page_url": "https://footfytv.pro/watch/3454",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F",
                 "status": "live"
             },
             {
                 "id": "3466",
                 "title": "LIVE Baseball Dodgers VS Reds MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3638/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3633/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3466",
+                "match_page_url": "https://footfytv.pro/watch/3466",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
                 "status": "live"
             },
             {
                 "id": "3447",
-                "title": "Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
-                "category": "Portland",
+                "title": "Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/90128/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/197177/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3447",
+                "match_page_url": "https://footfytv.pro/watch/3447",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3447",
                 "status": "upcoming"
             },
             {
                 "id": "3048",
-                "title": "Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6",
-                "category": "Portland",
+                "title": "Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
                 },
                 "away_team": {
                     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
                 },
-                "stream_url": "https://footfytv.pro/watch/3048",
+                "match_page_url": "https://footfytv.pro/watch/3048",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3048",
                 "status": "upcoming"
             },
             {
                 "id": "3450",
-                "title": "Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
-                "category": "Portland",
+                "title": "Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/243800/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/826818/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3450",
+                "match_page_url": "https://footfytv.pro/watch/3450",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3450",
                 "status": "upcoming"
             },
             {
                 "id": "3442",
-                "title": "Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
-                "category": "Portland",
+                "title": "Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/90140/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/107723/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3442",
+                "match_page_url": "https://footfytv.pro/watch/3442",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3442",
                 "status": "upcoming"
             },
             {
                 "id": "3458",
-                "title": "Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
-                "category": "Portland",
+                "title": "Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/44163/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/296210/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3458",
+                "match_page_url": "https://footfytv.pro/watch/3458",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3458",
                 "status": "upcoming"
             },
             {
                 "id": "3015",
-                "title": "Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9",
-                "category": "Portland",
+                "title": "Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/187809/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/187765/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3015",
+                "match_page_url": "https://footfytv.pro/watch/3015",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3015",
                 "status": "upcoming"
             },
             {
                 "id": "171",
                 "title": "Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
                 },
                 "away_team": {
                     "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
                 },
-                "stream_url": "https://footfytv.pro/watch/171",
+                "match_page_url": "https://footfytv.pro/watch/171",
+                "stream_m3u8_url": "https://footfytv.pro/watch/171",
                 "status": "upcoming"
             },
             {
                 "id": "213",
                 "title": "Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
                 },
                 "away_team": {
                     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
                 },
-                "stream_url": "https://footfytv.pro/watch/213",
+                "match_page_url": "https://footfytv.pro/watch/213",
+                "stream_m3u8_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
                 "status": "upcoming"
             },
             {
                 "id": "3475",
                 "title": "Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/213107/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/213104/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3475",
+                "match_page_url": "https://footfytv.pro/watch/3475",
+                "stream_m3u8_url": "http://51.77.217.114:8089/PAKvENGU19/index.m3u8",
                 "status": "upcoming"
             },
             {
                 "id": "3225",
                 "title": "Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/187575/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/187765/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3225",
+                "match_page_url": "https://footfytv.pro/watch/3225",
+                "stream_m3u8_url": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                 "status": "upcoming"
             },
             {
                 "id": "73",
                 "title": "Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
                 },
                 "away_team": {
                     "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
                 },
-                "stream_url": "https://footfytv.pro/watch/73",
+                "match_page_url": "https://footfytv.pro/watch/73",
+                "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
                 "status": "upcoming"
             },
             {
                 "id": "72",
                 "title": "Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
                 },
                 "away_team": {
                     "logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
                 },
-                "stream_url": "https://footfytv.pro/watch/72",
+                "match_page_url": "https://footfytv.pro/watch/72",
+                "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
                 "status": "upcoming"
             },
             {
                 "id": "3445",
                 "title": "FINISHED Football Chicago VS Inter Miami MLS 3",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/2505/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/337602/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3445",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3445",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F56152%2Fload-playlist.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net",
+                "status": "upcoming"
             },
             {
                 "id": "3457",
                 "title": "FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3206/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/1957/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3457",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3457",
+                "stream_m3u8_url": "https://footfytv.pro/watch/3457",
+                "status": "upcoming"
             },
             {
                 "id": "3474",
                 "title": "FINISHED American football Seahawks VS Patriots NFL 4",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/4430/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/4424/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3474",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3474",
+                "stream_m3u8_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
+                "status": "upcoming"
             },
             {
                 "id": "74",
                 "title": "FINISHED Boxing AEW VS AEW AEW Dynamite 3",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
                 },
                 "away_team": {
                     "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
                 },
-                "stream_url": "https://footfytv.pro/watch/74",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/74",
+                "stream_m3u8_url": "https://footfytv.pro/watch/74",
+                "status": "upcoming"
             },
             {
                 "id": "3461",
                 "title": "FINISHED Baseball Brewers VS Cubs MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3630/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3627/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3461",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3461",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "status": "upcoming"
             },
             {
                 "id": "3462",
                 "title": "FINISHED Baseball White Sox VS Pirates MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3644/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3637/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3462",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3462",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "status": "upcoming"
             },
             {
                 "id": "3471",
                 "title": "FINISHED Baseball Royals VS Diamondbacks MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3651/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3640/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3471",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3471",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "status": "upcoming"
             },
             {
                 "id": "3473",
                 "title": "FINISHED Baseball Braves VS Rays MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3656/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3653/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3473",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3473",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "status": "upcoming"
             },
             {
                 "id": "3472",
                 "title": "FINISHED Baseball Yankees VS Rockies MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3654/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3628/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3472",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3472",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "status": "upcoming"
             },
             {
                 "id": "2668",
                 "title": "FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
-                    "logo": "https://footfytv.pro/data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2096%2096%22%20role%3D%22img%22%20aria-hidden%3D%22true%22%3E%3Cdefs%3E%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2235%25%22%20r%3D%2270%25%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2334d399%22%20stop-opacity%3D%22.24%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230f172a%22%2F%3E%3C%2FradialGradient%3E%3Cfilter%20id%3D%22glow%22%20x%3D%22-40%25%22%20y%3D%22-40%25%22%20width%3D%22180%25%22%20height%3D%22180%25%22%3E%3CfeGaussianBlur%20stdDeviation%3D%222.4%22%20result%3D%22blur%22%2F%3E%3CfeMerge%3E%3CfeMergeNode%20in%3D%22blur%22%2F%3E%3CfeMergeNode%20in%3D%22SourceGraphic%22%2F%3E%3C%2FfeMerge%3E%3C%2Ffilter%3E%3C%2Fdefs%3E%3Crect%20width%3D%2296%22%20height%3D%2296%22%20rx%3D%2224%22%20fill%3D%22url(%23bg)%22%2F%3E%3Crect%20x%3D%229%22%20y%3D%229%22%20width%3D%2278%22%20height%3D%2278%22%20rx%3D%2220%22%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-opacity%3D%22.24%22%2F%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-width%3D%224.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20filter%3D%22url(%23glow)%22%3E%3Cpath%20d%3D%22M33%2067l30-38%208%206-30%2038z%22%2F%3E%3Cpath%20d%3D%22M26%2074l9-9%22%2F%3E%3Ccircle%20cx%3D%2268%22%20cy%3D%2268%22%20r%3D%228%22%2F%3E%3Cpath%20d%3D%22M64%2064l8%208%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+                    "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
                 },
                 "away_team": {
-                    "logo": "https://footfytv.pro/data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2096%2096%22%20role%3D%22img%22%20aria-hidden%3D%22true%22%3E%3Cdefs%3E%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2235%25%22%20r%3D%2270%25%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2334d399%22%20stop-opacity%3D%22.24%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230f172a%22%2F%3E%3C%2FradialGradient%3E%3Cfilter%20id%3D%22glow%22%20x%3D%22-40%25%22%20y%3D%22-40%25%22%20width%3D%22180%25%22%20height%3D%22180%25%22%3E%3CfeGaussianBlur%20stdDeviation%3D%222.4%22%20result%3D%22blur%22%2F%3E%3CfeMerge%3E%3CfeMergeNode%20in%3D%22blur%22%2F%3E%3CfeMergeNode%20in%3D%22SourceGraphic%22%2F%3E%3C%2FfeMerge%3E%3C%2Ffilter%3E%3C%2Fdefs%3E%3Crect%20width%3D%2296%22%20height%3D%2296%22%20rx%3D%2224%22%20fill%3D%22url(%23bg)%22%2F%3E%3Crect%20x%3D%229%22%20y%3D%229%22%20width%3D%2278%22%20height%3D%2278%22%20rx%3D%2220%22%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-opacity%3D%22.24%22%2F%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-width%3D%224.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20filter%3D%22url(%23glow)%22%3E%3Cpath%20d%3D%22M33%2067l30-38%208%206-30%2038z%22%2F%3E%3Cpath%20d%3D%22M26%2074l9-9%22%2F%3E%3Ccircle%20cx%3D%2268%22%20cy%3D%2268%22%20r%3D%228%22%2F%3E%3Cpath%20d%3D%22M64%2064l8%208%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+                    "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
                 },
-                "stream_url": "https://footfytv.pro/watch/2668",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/2668",
+                "stream_m3u8_url": "https://footfytv.pro/watch/2668",
+                "status": "upcoming"
             },
             {
                 "id": "3465",
                 "title": "FINISHED Baseball Red Sox VS Angels MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3646/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/5929/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3465",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3465",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "status": "upcoming"
             },
             {
                 "id": "3468",
                 "title": "FINISHED Baseball Phillies VS Astros MLB 1",
-                "category": "Portland",
+                "category": "LIVE",
                 "home_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3635/image"
                 },
                 "away_team": {
                     "logo": "https://img.sofascore.com/api/v1/team/3655/image"
                 },
-                "stream_url": "https://footfytv.pro/watch/3468",
-                "status": "finished"
+                "match_page_url": "https://footfytv.pro/watch/3468",
+                "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+                "status": "upcoming"
             }
         ]
     },
     "live": [
         {
             "id": "app",
-            "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
+            "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
             "category": "General",
             "home_team": {
                 "logo": "https://footfytv.pro/logo/Footfy-Final.png"
@@ -485,753 +509,488 @@
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/22007/image"
             },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "app",
-            "title": "Home Live All Channels Leagues Download App Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • Premium HD streaming - 100% free. No signup required. • All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1 Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match. Home Live Channels Leagues Download App",
-            "category": "Portland",
-            "home_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "away_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "N/A",
-            "title": "Home Live All Channels Leagues Download App",
-            "category": "Portland",
-            "home_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "away_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "N/A",
-            "title": "Home Live All Channels Leagues Download App",
-            "category": "General",
-            "home_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "away_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "N/A",
-            "title": "Home Live All Channels Leagues Download App",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/",
+            "match_page_url": "https://footfytv.pro/",
+            "stream_m3u8_url": "https://footfytv.pro/",
             "status": "live"
         },
         {
             "id": "live",
             "title": "Live",
-            "category": "General",
+            "category": "Home",
             "home_team": {
                 "logo": ""
             },
             "away_team": {
                 "logo": ""
             },
-            "stream_url": "https://footfytv.pro/live",
+            "match_page_url": "https://footfytv.pro/live",
+            "stream_m3u8_url": "https://footfytv.pro/live",
             "status": "live"
         },
         {
             "id": "3443",
-            "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
-            "category": "Portland",
+            "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
+            "category": "Home",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/22007/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/407803/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3443",
-            "status": "live"
-        },
-        {
-            "id": "3443",
-            "title": "All Boxing Cricket Football Formula 1 MLB LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
-            "category": "Portland",
-            "home_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-            },
-            "away_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/407803/image"
-            },
-            "stream_url": "https://footfytv.pro/watch/3443",
-            "status": "live"
-        },
-        {
-            "id": "3443",
-            "title": "LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
-            "category": "Portland",
-            "home_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-            },
-            "away_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/407803/image"
-            },
-            "stream_url": "https://footfytv.pro/watch/3443",
-            "status": "live"
-        },
-        {
-            "id": "3443",
-            "title": "LIVE Football Portland VS St. Louis MLS 4 LIVE Football Vancouver VS LA Galaxy MLS 3 LIVE Football San Diego VS San Jose MLS 3 LIVE Football Seattle VS Kansas City MLS 1 LIVE Football Los Angeles VS NY Red Bulls MLS 1 LIVE Baseball Dodgers VS Reds MLB 1 Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1 Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6 Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1 Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1 Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1 Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9 Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9 Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4 Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1 Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1 Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4 Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2 FINISHED Football Chicago VS Inter Miami MLS 3 FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1 FINISHED American football Seahawks VS Patriots NFL 4 FINISHED Boxing AEW VS AEW AEW Dynamite 3 FINISHED Baseball Brewers VS Cubs MLB 1 FINISHED Baseball White Sox VS Pirates MLB 1 FINISHED Baseball Royals VS Diamondbacks MLB 1 FINISHED Baseball Braves VS Rays MLB 1 FINISHED Baseball Yankees VS Rockies MLB 1 FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5 FINISHED Baseball Red Sox VS Angels MLB 1 FINISHED Baseball Phillies VS Astros MLB 1",
-            "category": "Portland",
-            "home_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-            },
-            "away_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/407803/image"
-            },
-            "stream_url": "https://footfytv.pro/watch/3443",
-            "status": "live"
-        },
-        {
-            "id": "3443",
-            "title": "LIVE Football Portland VS St. Louis MLS 4",
-            "category": "Portland",
-            "home_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/22007/image"
-            },
-            "away_team": {
-                "logo": "https://img.sofascore.com/api/v1/team/407803/image"
-            },
-            "stream_url": "https://footfytv.pro/watch/3443",
+            "match_page_url": "https://footfytv.pro/watch/3443",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3443",
             "status": "live"
         },
         {
             "id": "3444",
             "title": "LIVE Football Vancouver VS LA Galaxy MLS 3",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/22010/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/2513/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3444",
+            "match_page_url": "https://footfytv.pro/watch/3444",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-vancouver-whitecaps-vs-la-galaxy%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
             "status": "live"
         },
         {
             "id": "3449",
             "title": "LIVE Football San Diego VS San Jose MLS 3",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/1043961/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/21825/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3449",
+            "match_page_url": "https://footfytv.pro/watch/3449",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-san-diego-fc-vs-san-jose-earthquakes%2F2%2Fplaylist.m3u8%3Ftk%3DaP58Y88EeYTveqOaPlNpFA%26e%3D1789038085&Referer=https%3A%2F%2Fondemand.st",
             "status": "live"
         },
         {
             "id": "3453",
             "title": "LIVE Football Seattle VS Kansas City MLS 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/22009/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/2509/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3453",
+            "match_page_url": "https://footfytv.pro/watch/3453",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3453",
             "status": "live"
         },
         {
             "id": "3454",
             "title": "LIVE Football Los Angeles VS NY Red Bulls MLS 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/274650/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/2506/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3454",
+            "match_page_url": "https://footfytv.pro/watch/3454",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=http%3A%2F%2F193.47.62.44%2Fhls%2FBQQQAQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F",
             "status": "live"
         },
         {
             "id": "3466",
             "title": "LIVE Baseball Dodgers VS Reds MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3638/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3633/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3466",
-            "status": "live"
-        },
-        {
-            "id": "N/A",
-            "title": "Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App © 2026 FOOTFY. Built for sports fans. Use official streams responsibly and enjoy the match.",
-            "category": "Portland",
-            "home_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "away_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "N/A",
-            "title": "Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience. Home Live Channels Leagues Download App",
-            "category": "General",
-            "home_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "away_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "N/A",
-            "title": "Watch live sports, browse channels, and download the FOOTFY Android app for a smoother mobile experience.",
-            "category": "General",
-            "home_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "away_team": {
-                "logo": "https://footfytv.pro/logo/Footfy-Final.png"
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "live",
-            "title": "Live",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/live",
-            "status": "live"
-        },
-        {
-            "id": "N/A",
-            "title": "Home Live Channels Leagues Download App",
-            "category": "Portland",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "live"
-        },
-        {
-            "id": "live",
-            "title": "Live",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/live",
+            "match_page_url": "https://footfytv.pro/watch/3466",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhfzljfahzcax29.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
             "status": "live"
         }
     ],
     "upcoming": [
         {
-            "id": "N/A",
-            "title": "Home",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "upcoming"
-        },
-        {
             "id": "channels",
             "title": "All Channels",
-            "category": "General",
+            "category": "Home",
             "home_team": {
                 "logo": ""
             },
             "away_team": {
                 "logo": ""
             },
-            "stream_url": "https://footfytv.pro/channels",
+            "match_page_url": "https://footfytv.pro/channels",
+            "stream_m3u8_url": "https://footfytv.pro/channels",
             "status": "upcoming"
         },
         {
             "id": "leagues",
             "title": "Leagues",
-            "category": "General",
+            "category": "Home",
             "home_team": {
                 "logo": ""
             },
             "away_team": {
                 "logo": ""
             },
-            "stream_url": "https://footfytv.pro/leagues",
+            "match_page_url": "https://footfytv.pro/leagues",
+            "stream_m3u8_url": "https://footfytv.pro/leagues",
             "status": "upcoming"
         },
         {
             "id": "download-app",
             "title": "Download App",
-            "category": "General",
+            "category": "Home",
             "home_team": {
                 "logo": ""
             },
             "away_team": {
                 "logo": ""
             },
-            "stream_url": "https://footfytv.pro/download-app",
+            "match_page_url": "https://footfytv.pro/download-app",
+            "stream_m3u8_url": "https://footfytv.pro/download-app",
             "status": "upcoming"
         },
         {
             "id": "3447",
-            "title": "Starts In 03:10:42 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
-            "category": "Portland",
+            "title": "Starts In 03:02:46 Football Barcelona U19 VS Feyenoord U19 UEFA Youth League 1",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/90128/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/197177/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3447",
+            "match_page_url": "https://footfytv.pro/watch/3447",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3447",
             "status": "upcoming"
         },
         {
             "id": "3048",
-            "title": "Starts In 05:00:42 Cricket European T20 VS European T20 European T20 Premier League 6",
-            "category": "Portland",
+            "title": "Starts In 04:52:46 Cricket European T20 VS European T20 European T20 Premier League 6",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
             },
             "away_team": {
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
             },
-            "stream_url": "https://footfytv.pro/watch/3048",
+            "match_page_url": "https://footfytv.pro/watch/3048",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3048",
             "status": "upcoming"
         },
         {
             "id": "3450",
-            "title": "Starts In 06:40:42 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
-            "category": "Portland",
+            "title": "Starts In 06:32:46 Football Fenerbahçe U19 VS Roma U20 UEFA Youth League 1",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/243800/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/826818/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3450",
+            "match_page_url": "https://footfytv.pro/watch/3450",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3450",
             "status": "upcoming"
         },
         {
             "id": "3442",
-            "title": "Starts In 07:40:42 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
-            "category": "Portland",
+            "title": "Starts In 07:32:46 Football PSV U19 VS Shakhtar U19 UEFA Youth League 1",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/90140/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/107723/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3442",
+            "match_page_url": "https://footfytv.pro/watch/3442",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3442",
             "status": "upcoming"
         },
         {
             "id": "3458",
-            "title": "Starts In 07:40:42 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
-            "category": "Portland",
+            "title": "Starts In 07:32:46 Football Slavia Praha U19 VS Lens U19 UEFA Youth League 1",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/44163/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/296210/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3458",
+            "match_page_url": "https://footfytv.pro/watch/3458",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3458",
             "status": "upcoming"
         },
         {
             "id": "3015",
-            "title": "Starts In 10:10:42 Cricket BAN-W VS IND-W Womens Asia Cup 9",
-            "category": "Portland",
+            "title": "Starts In 10:02:46 Cricket BAN-W VS IND-W Womens Asia Cup 9",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/187809/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/187765/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3015",
+            "match_page_url": "https://footfytv.pro/watch/3015",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3015",
             "status": "upcoming"
         },
         {
             "id": "171",
             "title": "Starts In Tomorrow, 8:45 AM Motorsport MotoGP VS MotoGP MotoGP 9",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
             },
             "away_team": {
                 "logo": "https://i.ibb.co/6chYXnTd/mgpp.png"
             },
-            "stream_url": "https://footfytv.pro/watch/171",
+            "match_page_url": "https://footfytv.pro/watch/171",
+            "stream_m3u8_url": "https://footfytv.pro/watch/171",
             "status": "upcoming"
         },
         {
             "id": "213",
             "title": "Starts In Sep 12, 12:00 AM Boxing SmackDown VS SmackDown Friday Night SmackDown 4",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
             },
             "away_team": {
                 "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg"
             },
-            "stream_url": "https://footfytv.pro/watch/213",
+            "match_page_url": "https://footfytv.pro/watch/213",
+            "stream_m3u8_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
             "status": "upcoming"
         },
         {
             "id": "3475",
             "title": "Starts In Sep 12, 9:30 AM Cricket ENG-U19 VS PAK-U19 One Day International U19 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/213107/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/213104/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3475",
+            "match_page_url": "https://footfytv.pro/watch/3475",
+            "stream_m3u8_url": "http://51.77.217.114:8089/PAKvENGU19/index.m3u8",
             "status": "upcoming"
         },
         {
             "id": "3225",
             "title": "Starts In Sep 13, 1:30 PM Cricket AFG VS IND T20 International 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/187575/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/187765/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3225",
+            "match_page_url": "https://footfytv.pro/watch/3225",
+            "stream_m3u8_url": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
             "status": "upcoming"
         },
         {
             "id": "73",
             "title": "Starts In Sep 15, 12:00 AM Boxing WWE RAW VS WWE RAW Monday Night RAW 4",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
             },
             "away_team": {
                 "logo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png"
             },
-            "stream_url": "https://footfytv.pro/watch/73",
+            "match_page_url": "https://footfytv.pro/watch/73",
+            "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
             "status": "upcoming"
         },
         {
             "id": "72",
             "title": "Starts In Sep 16, 12:00 AM Boxing WWE NXT VS WWE NXT WWE NXT 2",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
             },
             "away_team": {
                 "logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png"
             },
-            "stream_url": "https://footfytv.pro/watch/72",
+            "match_page_url": "https://footfytv.pro/watch/72",
+            "stream_m3u8_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
             "status": "upcoming"
         },
-        {
-            "id": "N/A",
-            "title": "Home",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "upcoming"
-        },
-        {
-            "id": "channels",
-            "title": "Channels",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/channels",
-            "status": "upcoming"
-        },
-        {
-            "id": "leagues",
-            "title": "Leagues",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/leagues",
-            "status": "upcoming"
-        },
-        {
-            "id": "download-app",
-            "title": "Download App",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/download-app",
-            "status": "upcoming"
-        },
-        {
-            "id": "N/A",
-            "title": "Home",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/",
-            "status": "upcoming"
-        },
-        {
-            "id": "channels",
-            "title": "Channels",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/channels",
-            "status": "upcoming"
-        },
-        {
-            "id": "leagues",
-            "title": "Leagues",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/leagues",
-            "status": "upcoming"
-        },
-        {
-            "id": "download-app",
-            "title": "Download App",
-            "category": "General",
-            "home_team": {
-                "logo": ""
-            },
-            "away_team": {
-                "logo": ""
-            },
-            "stream_url": "https://footfytv.pro/download-app",
-            "status": "upcoming"
-        }
-    ],
-    "finished": [
         {
             "id": "3445",
             "title": "FINISHED Football Chicago VS Inter Miami MLS 3",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/2505/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/337602/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3445",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3445",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F56152%2Fload-playlist.m3u8&Referer=https%3A%2F%2Fgooz.aapmains.net",
+            "status": "upcoming"
         },
         {
             "id": "3457",
             "title": "FINISHED Football Estudiantes VS Corinthians CONMEBOL Libertadores 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3206/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/1957/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3457",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3457",
+            "stream_m3u8_url": "https://footfytv.pro/watch/3457",
+            "status": "upcoming"
         },
         {
             "id": "3474",
             "title": "FINISHED American football Seahawks VS Patriots NFL 4",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/4430/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/4424/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3474",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3474",
+            "stream_m3u8_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
+            "status": "upcoming"
         },
         {
             "id": "74",
             "title": "FINISHED Boxing AEW VS AEW AEW Dynamite 3",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
             },
             "away_team": {
                 "logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png"
             },
-            "stream_url": "https://footfytv.pro/watch/74",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/74",
+            "stream_m3u8_url": "https://footfytv.pro/watch/74",
+            "status": "upcoming"
         },
         {
             "id": "3461",
             "title": "FINISHED Baseball Brewers VS Cubs MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3630/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3627/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3461",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3461",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjzabfazkbf27.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "status": "upcoming"
         },
         {
             "id": "3462",
             "title": "FINISHED Baseball White Sox VS Pirates MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3644/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3637/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3462",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3462",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhefbafbakx28.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "status": "upcoming"
         },
         {
             "id": "3471",
             "title": "FINISHED Baseball Royals VS Diamondbacks MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3651/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3640/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3471",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3471",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fdzjhkfazbka26.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "status": "upcoming"
         },
         {
             "id": "3473",
             "title": "FINISHED Baseball Braves VS Rays MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3656/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3653/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3473",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3473",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fkjhfzua25.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "status": "upcoming"
         },
         {
             "id": "3472",
             "title": "FINISHED Baseball Yankees VS Rockies MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3654/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3628/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3472",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3472",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Ffskjanach24.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "status": "upcoming"
         },
         {
             "id": "2668",
             "title": "FINISHED Cricket CPL T20 VS CPL T20 Caribbean Premier League T20 5",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
-                "logo": "https://footfytv.pro/data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2096%2096%22%20role%3D%22img%22%20aria-hidden%3D%22true%22%3E%3Cdefs%3E%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2235%25%22%20r%3D%2270%25%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2334d399%22%20stop-opacity%3D%22.24%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230f172a%22%2F%3E%3C%2FradialGradient%3E%3Cfilter%20id%3D%22glow%22%20x%3D%22-40%25%22%20y%3D%22-40%25%22%20width%3D%22180%25%22%20height%3D%22180%25%22%3E%3CfeGaussianBlur%20stdDeviation%3D%222.4%22%20result%3D%22blur%22%2F%3E%3CfeMerge%3E%3CfeMergeNode%20in%3D%22blur%22%2F%3E%3CfeMergeNode%20in%3D%22SourceGraphic%22%2F%3E%3C%2FfeMerge%3E%3C%2Ffilter%3E%3C%2Fdefs%3E%3Crect%20width%3D%2296%22%20height%3D%2296%22%20rx%3D%2224%22%20fill%3D%22url(%23bg)%22%2F%3E%3Crect%20x%3D%229%22%20y%3D%229%22%20width%3D%2278%22%20height%3D%2278%22%20rx%3D%2220%22%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-opacity%3D%22.24%22%2F%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-width%3D%224.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20filter%3D%22url(%23glow)%22%3E%3Cpath%20d%3D%22M33%2067l30-38%208%206-30%2038z%22%2F%3E%3Cpath%20d%3D%22M26%2074l9-9%22%2F%3E%3Ccircle%20cx%3D%2268%22%20cy%3D%2268%22%20r%3D%228%22%2F%3E%3Cpath%20d%3D%22M64%2064l8%208%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+                "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
             },
             "away_team": {
-                "logo": "https://footfytv.pro/data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2096%2096%22%20role%3D%22img%22%20aria-hidden%3D%22true%22%3E%3Cdefs%3E%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2235%25%22%20r%3D%2270%25%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2334d399%22%20stop-opacity%3D%22.24%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230f172a%22%2F%3E%3C%2FradialGradient%3E%3Cfilter%20id%3D%22glow%22%20x%3D%22-40%25%22%20y%3D%22-40%25%22%20width%3D%22180%25%22%20height%3D%22180%25%22%3E%3CfeGaussianBlur%20stdDeviation%3D%222.4%22%20result%3D%22blur%22%2F%3E%3CfeMerge%3E%3CfeMergeNode%20in%3D%22blur%22%2F%3E%3CfeMergeNode%20in%3D%22SourceGraphic%22%2F%3E%3C%2FfeMerge%3E%3C%2Ffilter%3E%3C%2Fdefs%3E%3Crect%20width%3D%2296%22%20height%3D%2296%22%20rx%3D%2224%22%20fill%3D%22url(%23bg)%22%2F%3E%3Crect%20x%3D%229%22%20y%3D%229%22%20width%3D%2278%22%20height%3D%2278%22%20rx%3D%2220%22%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-opacity%3D%22.24%22%2F%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%2334d399%22%20stroke-width%3D%224.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20filter%3D%22url(%23glow)%22%3E%3Cpath%20d%3D%22M33%2067l30-38%208%206-30%2038z%22%2F%3E%3Cpath%20d%3D%22M26%2074l9-9%22%2F%3E%3Ccircle%20cx%3D%2268%22%20cy%3D%2268%22%20r%3D%228%22%2F%3E%3Cpath%20d%3D%22M64%2064l8%208%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+                "logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
             },
-            "stream_url": "https://footfytv.pro/watch/2668",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/2668",
+            "stream_m3u8_url": "https://footfytv.pro/watch/2668",
+            "status": "upcoming"
         },
         {
             "id": "3465",
             "title": "FINISHED Baseball Red Sox VS Angels MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3646/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/5929/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3465",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3465",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream7.pro%2Fhls%2Fjnzkdzjfanch23.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "status": "upcoming"
         },
         {
             "id": "3468",
             "title": "FINISHED Baseball Phillies VS Astros MLB 1",
-            "category": "Portland",
+            "category": "LIVE",
             "home_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3635/image"
             },
             "away_team": {
                 "logo": "https://img.sofascore.com/api/v1/team/3655/image"
             },
-            "stream_url": "https://footfytv.pro/watch/3468",
-            "status": "finished"
+            "match_page_url": "https://footfytv.pro/watch/3468",
+            "stream_m3u8_url": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fojzkajnach21.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online",
+            "status": "upcoming"
         }
-    ]
+    ],
+    "finished": []
 }
